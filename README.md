@@ -16,10 +16,8 @@ Compte-rendu des ateliers Lilypond présentés à Paris dans le cadre du meetup 
    ```
 
 - Entrer des notes :
-        - Octaves relatives : 
-                          ' monte la note d'une octave
-                          , baisse la note d'une octave
-                          Sans indication, Lilypond écrit la note la plus proche de la note précédente, dans la limite d'un intervalle de quarte. Au-delà d'un intervalle de quarte, il faudra ajouter une ' ou une , pour monter ou baisser la note à l'octave désiré.
+une apostrophe ' monte la note d'une octave et une virgule 
+, baisse la note d'une octave. Sans indication, Lilypond écrit la note la plus proche de la note précédente, dans la limite d'un intervalle de quarte. Au-delà d'un intervalle de quarte, il faudra ajouter une ' ou une , pour monter ou baisser la note à l'octave désiré.
                           Exemple :
 
    ```  
