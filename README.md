@@ -1,4 +1,4 @@
-Dernière édition : 19/09/2017 à 18:20
+Dernière édition : 19/09/2017 à 18:22
 
 Compte-rendu des ateliers Lilypond présentés à Paris dans le cadre du meetup Creative Coding Paris. 
 
@@ -185,11 +185,10 @@ une apostrophe ' monte la note d'une octave et une virgule
 - Supprimer et remettre des lignes de portées :
          - \stopStaff et \startStaff
 
-- Changer les têtes de notes
+- Changer les têtes de notes : http://lilypond.org/doc/v2.18/Documentation/notation/note-head-styles
    ```
    \override NoteHead.style = #'triangle
    ```
-         - http://lilypond.org/doc/v2.18/Documentation/notation/note-head-styles
 
 - Outils de notation graphique
          - http://lilypond.org/doc/v2.18/Documentation/notation/graphic
