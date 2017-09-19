@@ -45,8 +45,7 @@ une apostrophe ' monte la note d'une octave et une virgule
    <c e g>4
    ```
 
-- Comment décider librement des ligatures des croches : [ après une note pour démarrer la ligature, et ] après une note pour terminer la ligature
-                   * attention à l'espace après [ et pas d'espace avant ]
+- Comment décider librement des ligatures des croches : [ après une note pour démarrer la ligature, et ] après une note pour terminer la ligature. Attention à l'espace après [ et pas d'espace avant ]
    ```
    c8[ d e f g] a[ b] c d 
    ```
