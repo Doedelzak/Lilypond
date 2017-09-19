@@ -32,7 +32,7 @@ une apostrophe ' monte la note d'une octave et une virgule
    a1 b2 c4 d8 e16
    ```
 
-- Dièses (is) et bémols (es), double-dièses (isis) et double-bémols (eses) :
+- Dièses (is) et bémols (es), double-dièses (isis) et double-bémols (eses) : se placent aussi directement après les notes
 
    ``` 
    aes bis ces deses eisis
