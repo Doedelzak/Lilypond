@@ -1,3 +1,6 @@
+Compte-rendu des ateliers Lilypond présentés à Paris dans le cadre du meetup Creative Coding Paris. 
+
+
 # I/ Les bases de Lilypond   →   start.ly
 
 - Il est nécessaire de démarrer le fichier par la mention de la version utilisée de Lilypond, pour assurer la compatibilité avec les versions futures :
